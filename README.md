@@ -1,6 +1,6 @@
 # chess-java - Project By Shreyas (43275), Yash (43276) and Harish (43280)
 
-**JavaChess Official Documentation**
+**JavaChess**
 
 **Description:**
 JavaChess is a chess game developed in Java, featuring a graphical user interface (GUI) built with Java Swing. It employs Remote Method Invocation (RMI) and a client/server architecture to enable multiplayer functionality, allowing up to 6 players to engage in chess simultaneously.
